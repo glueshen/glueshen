@@ -4,7 +4,7 @@
     <img src="https://skillicons.dev/icons?i=php,python,javascript,typescript,c,cs,azure,css,html,docker" />
   </a>
 </p>
-## My working [github](https://github.com/PiotrHlushen) account if you are interested
+## My working https://github.com/PiotrHlushen account if you are interested
 <!--
 **glueshen/glueshen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
