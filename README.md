@@ -1,7 +1,7 @@
 ### Hi there 👋
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,python,javascript,typescript,c,cs,azure,css,html,docker" />
+    <img src="https://skillicons.dev/icons?i=php,python,javascript,typescript,cs,azure,css,html,docker" />
   </a>
 </p>
 ## My working https://github.com/PiotrHlushen account if you are interested
